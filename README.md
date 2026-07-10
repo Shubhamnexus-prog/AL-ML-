@@ -1,217 +1,508 @@
-# 🚀 AI & Machine Learning Roadmap (Beginner to Advanced)
+<div align="center">
 
-A complete roadmap to become an **AI/ML Engineer** from scratch. This guide covers Python, Mathematics, Data Science, Machine Learning, Deep Learning, Generative AI, MLOps, and Deployment.
+# 🚀 AI & Machine Learning Roadmap 2026
+
+### The Complete Beginner to Advanced Guide to Become an AI Engineer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Learn+Python;Master+Machine+Learning;Build+Deep+Learning+Models;Explore+Computer+Vision;Learn+Natural+Language+Processing;Build+Generative+AI+Applications;Deploy+AI+Projects;Become+an+AI+Engineer"/>
+
+![Stars](https://img.shields.io/github/stars/USERNAME/REPO?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/USERNAME/REPO?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/USERNAME/REPO?style=for-the-badge)
+![License](https://img.shields.io/github/license/USERNAME/REPO?style=for-the-badge)
+
+⭐ A complete roadmap covering Python, Data Science, Machine Learning, Deep Learning, Generative AI, MLOps, Cloud, and Interview Preparation.
+
+</div>
 
 ---
 
-## 📚 Roadmap
+# 📚 Table of Contents
 
-### 🟢 Phase 1: Python Programming
-- Python Basics
-- Variables & Data Types
-- Loops
+- Introduction
+- Prerequisites
+- Python Programming
+- Mathematics
+- Data Analysis
+- SQL
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Generative AI
+- AI Agents
+- MLOps
+- Cloud Computing
+- Deployment
+- Projects
+- Kaggle
+- GitHub Portfolio
+- Certifications
+- Interview Preparation
+- Resources
+- Contribution
+
+---
+
+# 🎯 Who is this Roadmap For?
+
+✔ Beginners
+
+✔ College Students
+
+✔ Data Science Aspirants
+
+✔ AI Enthusiasts
+
+✔ Working Professionals
+
+✔ Career Switchers
+
+✔ Software Engineers
+
+---
+
+# 🛣️ Learning Roadmap
+
+```
+Programming
+      │
+      ▼
+Python
+      │
+      ▼
+Mathematics
+      │
+      ▼
+Data Analysis
+      │
+      ▼
+SQL
+      │
+      ▼
+Machine Learning
+      │
+      ▼
+Deep Learning
+      │
+      ▼
+Computer Vision
+      │
+      ▼
+Natural Language Processing
+      │
+      ▼
+Generative AI
+      │
+      ▼
+LLMs
+      │
+      ▼
+AI Agents
+      │
+      ▼
+Deployment
+      │
+      ▼
+MLOps
+      │
+      ▼
+Cloud
+      │
+      ▼
+AI Engineer
+```
+
+---
+
+# 🐍 Phase 1 — Python
+
+## Basics
+
+- Variables
+- Data Types
+- Operators
+- Strings
+- Lists
+- Tuples
+- Dictionaries
+- Sets
+
+## Intermediate
+
 - Functions
-- Object-Oriented Programming
-- File Handling
+- Lambda
+- Decorators
+- Generators
+- OOP
 - Exception Handling
+- File Handling
+
+## Advanced
+
+- Multithreading
+- Multiprocessing
+- Async Programming
 
 ---
 
-### 🟢 Phase 2: Mathematics
-- Linear Algebra
-- Probability
-- Statistics
-- Calculus (Basics)
+# 📐 Phase 2 — Mathematics
+
+## Linear Algebra
+
+- Vectors
+- Matrices
+- Eigenvalues
+- Eigenvectors
+
+## Probability
+
+- Conditional Probability
+- Bayes Theorem
+- Random Variables
+
+## Statistics
+
+- Mean
+- Median
+- Variance
+- Correlation
+- Distribution
+
+## Calculus
+
+- Derivatives
+- Gradient
+- Chain Rule
 
 ---
 
-### 🟢 Phase 3: Data Analysis
+# 📊 Phase 3 — Data Analysis
+
+Libraries
+
 - NumPy
 - Pandas
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
+
+Learn
+
+- Import Data
+- Missing Values
+- Duplicate Handling
 - Feature Engineering
+- Data Cleaning
+
+Projects
+
+- Netflix Analysis
+- IPL Analysis
+- Titanic Analysis
 
 ---
 
-### 🟢 Phase 4: Data Visualization
+# 📈 Phase 4 — Data Visualization
+
+Libraries
+
 - Matplotlib
 - Plotly
 
+Charts
+
+- Bar Chart
+- Histogram
+- Heatmap
+- Box Plot
+- Scatter Plot
+- Violin Plot
+- Pair Plot
+
 ---
 
-### 🔵 Phase 5: SQL
+# 💾 Phase 5 — SQL
+
 - SELECT
-- WHERE
 - GROUP BY
-- JOIN
+- ORDER BY
+- HAVING
+- CASE
+- JOINS
+- Subqueries
+- CTE
 - Window Functions
 
 ---
 
-### 🔵 Phase 6: Machine Learning
-#### Supervised Learning
+# 🤖 Phase 6 — Machine Learning
+
+## Regression
+
 - Linear Regression
+- Multiple Regression
+- Polynomial Regression
+- Ridge
+- Lasso
+
+## Classification
+
 - Logistic Regression
+- KNN
 - Decision Tree
 - Random Forest
 - SVM
-- KNN
 - Naive Bayes
 - XGBoost
+- CatBoost
+- LightGBM
 
-#### Unsupervised Learning
-- K-Means
-- Hierarchical Clustering
+## Clustering
+
+- KMeans
 - DBSCAN
+- Hierarchical
+
+## Dimensionality Reduction
+
 - PCA
+- t-SNE
+- UMAP
 
 ---
 
-### 🔵 Phase 7: Model Evaluation
-- Accuracy
-- Precision
-- Recall
-- F1 Score
-- ROC-AUC
-- MAE
-- MSE
-- RMSE
-- R² Score
+# 🧠 Phase 7 — Deep Learning
 
----
+Frameworks
 
-### 🟣 Phase 8: Deep Learning
-- Neural Networks
 - TensorFlow
-- Keras
 - PyTorch
+- Keras
+
+Concepts
+
+- ANN
 - CNN
 - RNN
 - LSTM
+- GRU
+- Attention
+- Transformers
 
 ---
 
-### 🟣 Phase 9: Computer Vision
+# 👁️ Computer Vision
+
 - OpenCV
 - Image Classification
 - Object Detection
+- Image Segmentation
+- Face Detection
 - YOLO
-- Transfer Learning
+- EfficientNet
+
+Projects
+
+- Face Mask Detection
+- OCR
+- Number Plate Detection
+- Emotion Detection
 
 ---
 
-### 🟣 Phase 10: Natural Language Processing
-- Text Preprocessing
-- Tokenization
-- TF-IDF
-- Word Embeddings
+# 💬 NLP
+
+Libraries
+
+- NLTK
+- spaCy
 - Transformers
+
+Learn
+
+- Tokenization
+- Lemmatization
+- TF-IDF
+- Word2Vec
 - BERT
 
+Projects
+
+- Spam Detection
+- Fake News Detection
+- Sentiment Analysis
+- Resume Screening
+
 ---
 
-### 🟣 Phase 11: Generative AI
-- LLMs
+# ✨ Generative AI
+
 - GPT
 - Llama
+- Gemma
+- Mistral
+- Phi
 - Prompt Engineering
+- Fine Tuning
+- LoRA
+- QLoRA
 - RAG
-- Fine-Tuning
-- AI Agents
+- LangChain
+- LlamaIndex
+- Embeddings
 - Vector Databases
+
+Projects
+
+- PDF Chatbot
+- AI Resume Builder
+- AI Tutor
+- AI Code Assistant
+- AI Interview Bot
 
 ---
 
-### 🟠 Phase 12: Deployment
+# 🤖 AI Agents
+
+- Agentic AI
+- CrewAI
+- AutoGen
+- LangGraph
+- Multi-Agent Systems
+- MCP
+- Tool Calling
+- Memory
+- Planning
+
+---
+
+# 🚀 Deployment
+
 - Flask
 - FastAPI
 - Streamlit
 - Docker
+- Nginx
+- GitHub Actions
 
-Deploy to:
-- Vercel
+Deploy On
+
 - Hugging Face
 - Render
 - Railway
+- Azure
+- AWS
+- GCP
 
 ---
 
-### 🟠 Phase 13: MLOps
-- Git & GitHub
+# ⚙ MLOps
+
+- Docker
 - MLflow
 - DVC
-- Docker
+- Airflow
+- Kubernetes
 - CI/CD
-- Kubernetes (Basics)
+- Monitoring
+- Model Registry
 
 ---
 
-## 💼 Suggested Projects
+# ☁ Cloud
 
-- ✅ Salary Prediction
-- ✅ House Price Prediction
-- ✅ Customer Churn Prediction
-- ✅ Loan Approval Prediction
-- ✅ Heart Disease Prediction
-- ✅ Fake News Detection
-- ✅ Movie Recommendation System
-- ✅ Face Recognition
-- ✅ OCR System
-- ✅ Resume Screening
-- ✅ AI Chatbot
-- ✅ PDF Chatbot (RAG)
-- ✅ AI Resume Builder
-- ✅ YouTube Thumbnail CTR Prediction
+- AWS
+- Azure
+- Google Cloud
 
 ---
 
-## 🛠️ Tech Stack
+# 🏆 50+ Project Ideas
+
+### Beginner
+
+- Calculator
+- Weather App
+- Student Marks Prediction
+- Salary Prediction
+- House Price Prediction
+
+### Intermediate
+
+- Customer Churn
+- Loan Prediction
+- Recommendation System
+- Movie Recommender
+- OCR
+
+### Advanced
+
+- ChatGPT Clone
+- AI SaaS
+- RAG Chatbot
+- AI Research Assistant
+- Medical Diagnosis
+- Autonomous AI Agent
+- Voice Assistant
+- Multi-Agent AI
+- YouTube Thumbnail CTR Prediction
+- AI Interview Platform
+
+---
+
+# 📅 12-Month Plan
+
+| Month | Goal |
+|--------|------|
+| 1 | Python |
+| 2 | Math |
+| 3 | SQL + Pandas |
+| 4 | Data Analysis |
+| 5 | Machine Learning |
+| 6 | Advanced ML |
+| 7 | Deep Learning |
+| 8 | Computer Vision |
+| 9 | NLP |
+| 10 | Generative AI |
+| 11 | MLOps |
+| 12 | Portfolio + Interview |
+
+---
+
+# 📖 Interview Topics
 
 - Python
-- NumPy
-- Pandas
-- Matplotlib
-- Plotly
-- Scikit-learn
-- TensorFlow
-- PyTorch
-- OpenCV
-- NLTK
-- spaCy
-- Hugging Face
-- LangChain
-- FastAPI
-- Streamlit
-- Docker
-- Git & GitHub
+- SQL
+- Statistics
+- Machine Learning
+- Deep Learning
+- NLP
+- Computer Vision
+- Generative AI
+- RAG
+- Vector Databases
+- AI Agents
+- MLOps
+- System Design
 
 ---
 
-## 📅 Learning Timeline
+# ⭐ Support
 
-| Months | Focus |
-|---------|-------|
-| 1–2 | Python + Math |
-| 3 | NumPy + Pandas + SQL |
-| 4 | EDA + Visualization |
-| 5–6 | Machine Learning |
-| 7–8 | Deep Learning |
-| 9 | NLP + Computer Vision |
-| 10 | Generative AI |
-| 11 | Deployment + MLOps |
-| 12 | Portfolio + Interview Preparation |
+If this roadmap helped you,
+
+⭐ Star this Repository
+
+🍴 Fork this Repository
+
+🤝 Contribute
+
+📢 Share with Others
 
 ---
 
-## ⭐ Goals
+<div align="center">
 
-- Build **20+ AI/ML Projects**
-- Create a strong **GitHub Portfolio**
-- Participate in **Kaggle Competitions**
-- Learn **Generative AI & LLMs**
-- Deploy real-world AI applications
+# Happy Learning ❤️
 
----
+### Keep Building • Keep Learning • Keep Growing 🚀
 
-### 🌟 If this roadmap helps you, don't forget to ⭐ star the repository!
+</div>
