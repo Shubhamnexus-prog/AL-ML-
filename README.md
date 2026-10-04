@@ -16,7 +16,6 @@
 </div>
 
 ---
-
 # 📚 Table of Contents
 
 - Introduction
@@ -43,7 +42,6 @@
 - Contribution
 
 ---
-
 # 🎯 Who is this Roadmap For?
 
 ✔ Beginners
